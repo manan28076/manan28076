@@ -18,6 +18,9 @@
   <a href="https://github.com/manan28076">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
+  <a href="https://leetcode.com/u/manan___28/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" />
+  </a>
 </p>
 
 <p align="center">
@@ -98,6 +101,15 @@ One-line description of impact — the problem it solves, not just the stack it 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manan28076&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/manan___28?theme=dark&font=baloo2&ext=heatmap" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manan28076&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
