@@ -84,13 +84,17 @@ AI-powered code review platform. Real backend (Express + MongoDB), Gemini-genera
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=80&section=header&text=Project%20Two&fontSize=22&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=80&section=header&text=LIFI%20Project&fontSize=22&fontColor=ffffff" width="100%"/>
 
-One-line description of impact — the problem it solves, not just the stack it uses.
+Built the frontend and contributed to backend for Learning Initiatives For India's official website — a nonprofit dedicated to improving learning outcomes for underserved children.
 
-`Tech` `Stack` `Here`
+`React` `Frontend` `Backend`
 
-**[→ View Repo](https://github.com/manan28076/project-two)**
+<p>
+<a href="https://www.learninginitiativesforindia.org/">
+  <img src="https://img.shields.io/badge/Live_Demo-00C6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
