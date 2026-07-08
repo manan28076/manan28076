@@ -103,10 +103,6 @@ One-line description of impact — the problem it solves, not just the stack it 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manan28076&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manan28076&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
 <p align="center">
