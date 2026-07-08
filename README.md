@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=manan28076&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manan28076&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 
 ![](https://github-profile-trophy.vercel.app/?username=manan28076&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 
