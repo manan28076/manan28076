@@ -9,22 +9,22 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/mananshah2876">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:manan28076@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://YOUR-PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://github.com/YOUR-USERNAME">
+  <a href="https://github.com/manan28076">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=00c6ff&labelColor=000000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manan28076&style=for-the-badge&color=00c6ff&labelColor=000000" alt="Profile views" />
 </p>
 
 ---
@@ -72,7 +72,7 @@ AI-powered code review platform. Real backend (Express + MongoDB), Gemini-genera
 
 `Node.js` `MongoDB` `Gemini API` `React` `TypeScript`
 
-**[→ View Repo](https://github.com/YOUR-USERNAME/code-mentor-ai-ui)**
+**[→ View Repo](https://github.com/manan28076/code-mentor-ai-ui)**
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@ One-line description of impact — the problem it solves, not just the stack it 
 
 `Tech` `Stack` `Here`
 
-**[→ View Repo](https://github.com/YOUR-USERNAME/project-two)**
+**[→ View Repo](https://github.com/manan28076/project-two)**
 
 </td>
 </tr>
@@ -94,26 +94,26 @@ One-line description of impact — the problem it solves, not just the stack it 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manan28076&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan28076&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manan28076&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manan28076&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=manan28076&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2&section=header" width="100%"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/manan28076/manan28076/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 <div align="center">
