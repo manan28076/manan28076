@@ -72,7 +72,7 @@ AI-powered code review platform. Real backend (Express + MongoDB), Gemini-genera
 
 `Node.js` `MongoDB` `Gemini API` `React` `TypeScript`
 
-**[→ View Repo](https://github.com/manan28076/code-mentor-ai-ui)**
+**[→ View Repo](https://github.com/manan28076/ode-mentor-ai-ui)** &nbsp;|&nbsp; **[🚀 Live Demo](https://ode-mentor-ai-ui.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
