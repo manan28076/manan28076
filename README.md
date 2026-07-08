@@ -1,21 +1,89 @@
-# 💫 About Me:
-🔭 I’m currently working on AI-powered Full Stack Web Applications using MERN & LLMs.<br><br>👯 I’m looking to collaborate on Open Source, Full Stack, and GenAI projects.<br><br>🤝 I’m looking for help with System Design, Scalable Backend Development, and Open Source.<br><br>🌱 I’m currently learning Node.js, Express.js, MongoDB, React, and Generative AI.<br><br>💬 Ask me about JavaScript, MERN Stack, C++, DSA, and AI Integration.<br><br>⚡ Fun fact: I enjoy turning AI ideas into real-world web applications.
+<h1 align="center">Hi 👋, I'm Manan</h1>
+<h3 align="center">Full-Stack Developer | Building with GenAI & Agentic AI | Math & Computing @ DTU</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+products+with+AI+under+the+hood;Node.js+%2B+MongoDB+%2B+React+%2B+TypeScript;Currently+shipping+CodeMentor+AI+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mananshah2876) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manan28076@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=manan28076&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manan28076&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manan28076&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 
-![](https://github-profile-trophy.vercel.app/?username=manan28076&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+### 🚀 About Me
 
+- 🎓 Mathematics & Computing student at **Delhi Technological University**, entering 3rd year
+- 💻 Focused on **full-stack development** layered with **agentic AI / GenAI** (RAG, LangChain, vector DBs)
+- 🔭 Currently building **[CodeMentor AI](https://github.com/YOUR-USERNAME/code-mentor-ai-ui)** — an AI-powered code review tool (Node.js + MongoDB + Gemini + React/TS)
+- 🌱 Learning: LangChain, LlamaIndex, CrewAI, AutoGen
+- 🎯 Goal: SDE placement — building real, shippable products, not just tutorials
+- ⚡ Fun fact: I'd rather run the code and see what breaks than read the docs first
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,react,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
+</p>
+
+**AI / GenAI:** Gemini API · LangChain · Vector Databases · RAG Pipelines
+
+---
+
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🤖 CodeMentor AI**
+AI-powered code review platform. Real backend (Express + MongoDB), Gemini-generated JSON reviews (bugs, complexity, best practices), React + TS + Tailwind frontend.
+
+`Node.js` `MongoDB` `Gemini API` `React` `TypeScript`
+
+[Repo →](https://github.com/YOUR-USERNAME/code-mentor-ai-ui)
+
+</td>
+<td width="50%">
+
+**📦 Project Two**
+Short one-line description of impact — what problem it solves, not just what it uses.
+
+`Tech` `Stack` `Here`
+
+[Repo →](https://github.com/YOUR-USERNAME/project-two)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
